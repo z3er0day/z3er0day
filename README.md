@@ -6,47 +6,28 @@
 
 Building reliable, performant products from browser to backend, native mobile to systems code.
 
-<img src="profile/stats.svg" alt="GitHub Stats" height="180" />&nbsp;
-<img src="profile/top-langs.svg" alt="Top Languages" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3er0day&theme=tokyonight" width="100%" alt="GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3er0day&theme=tokyonight" height="160" alt="Top Languages" />&nbsp;<img src="https://streak-stats.demolab.com/?user=z3er0day&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
 
 </div>
 
 ---
 
-## 💼 Что делаю
+## 🧰 Stack
 
-- Проектирую frontend и backend архитектуру для масштабируемых приложений
-- Строю мобильные приложения на Swift и Kotlin
-- Создаю автоматизацию, ботов и инфраструктурные инструменты
-- Оптимизирую систему и low-level код на C++ / C#
+`main` → TypeScript / React / architecture / project foundation
+`feat/frontend` → React / Next.js / Tailwind / Prisma / Vite / responsive UI
+`feat/mobile` → Swift / UIKit / SwiftUI / Kotlin / Jetpack Compose
+`feat/backend` → Python / FastAPI / Django / REST APIs / bots / automation
+`feat/systems` → C++ / C# / performance-critical code / graphics / game dev
+`feat/data` → PostgreSQL / SQLite / Redis / Docker / ORMs / ETL
+`feat/devops` → Linux / Nginx / Docker / CI/CD / VPS / containers
+`release/full` → web + mobile + backend + systems + infra
 
-## 🧠 Фокус
+## 📌 Projects
 
-- Производительность и стабильность
-- Чистая архитектура и тестируемость
-- Удобный интерфейс и плавный UX
-- Надёжная автоматизация и CI/CD
-
-## 🧰 Стек
-
-main → TypeScript / React / architecture / project foundation
-feat/frontend → React / Next.js / Tailwind / Prisma / Vite / responsive UI
-feat/mobile → Swift / UIKit / SwiftUI / Kotlin / Jetpack Compose
-feat/backend → Python / FastAPI / Django / REST APIs / bots / automation
-feat/systems → C++ / C# / performance-critical code / graphics / game dev
-feat/data → PostgreSQL / SQLite / Redis / Docker / ORMs / ETL
-feat/devops → Linux / Nginx / Docker / CI/CD / VPS / containers
-release/full → web + mobile + backend + systems + infra
-
-## 📌 Проекты
-
-- `Web` — frontend-приложения с фокусом на UX и производительность
-- `Mobile` — нативные iOS/Android приложения с удобной архитектурой
-- `Bots` — автоматизация, парсеры и телеграм-боты для бизнеса и личных задач
-- `Systems` — оптимизация, интеграции и backend-системы для высокой нагрузки
-
-## 🌱 Сейчас изучаю
-
-- Продвинутые паттерны архитектуры React и мобильных приложений
-- Чистые API и масштабируемые backend-сервисы
-- Инструменты для автоматизации доставки и мониторинга
+- `Web` — frontend apps focused on UX and performance
+- `Mobile` — native iOS/Android apps with solid architecture
+- `Bots` — automation, parsers and Telegram bots for real tasks
+- `Systems` — optimized backends, integrations and high-load systems
