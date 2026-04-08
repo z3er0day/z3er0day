@@ -18,13 +18,13 @@ jobs:
       - name: Generate stats card
         run: |
           mkdir -p profile
-          curl -sS -o profile/stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true"
+          curl -L -sS -o profile/stats.svg \
+            "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${{ github.repository_owner }}&theme=tokyonight"
 
       - name: Generate top languages card
         run: |
-          curl -sS -o profile/top-langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+          curl -L -sS -o profile/top-langs.svg \
+            "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=${{ github.repository_owner }}&theme=tokyonight"
 
       - name: Commit cards
         run: |
