@@ -16,14 +16,14 @@ Building reliable, performant products from browser to backend, native mobile to
 
 ## 🧰 Stack
 
-`main` → TypeScript / React / architecture / project foundation
-`feat/frontend` → React / Next.js / Tailwind / Prisma / Vite / responsive UI
-`feat/mobile` → Swift / UIKit / SwiftUI / Kotlin / Jetpack Compose
-`feat/backend` → Python / FastAPI / Django / REST APIs / bots / automation
-`feat/systems` → C++ / C# / performance-critical code / graphics / game dev
-`feat/data` → PostgreSQL / SQLite / Redis / Docker / ORMs / ETL
-`feat/devops` → Linux / Nginx / Docker / CI/CD / VPS / containers
-`release/full` → web + mobile + backend + systems + infra
+- `main` → TypeScript / React / architecture / project foundation
+- `feat/frontend` → React / Next.js / Tailwind / Prisma / Vite / responsive UI
+- `feat/mobile` → Swift / UIKit / SwiftUI / Kotlin / Jetpack Compose
+- `feat/backend` → Python / FastAPI / Django / REST APIs / bots / automation
+- `feat/systems` → C++ / C# / performance-critical code / graphics / game dev
+- `feat/data` → PostgreSQL / SQLite / Redis / Docker / ORMs / ETL
+- `feat/devops` → Linux / Nginx / Docker / CI/CD / VPS / containers
+- `release/full` → web + mobile + backend + systems + infra
 
 ## 📌 Projects
 
